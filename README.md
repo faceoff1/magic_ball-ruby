@@ -1,5 +1,5 @@
 <h1>"Magic 8 Ball"</h1>
-Magic Ball - this is a console game, where you can get the answer to your question!
+Magic Ball - a console game, where you can get the answer to your question!
 
 The program is written in Ruby
 
@@ -11,7 +11,7 @@ Imagine your question and run the program, the answer will be in the console.
 
 <b>How to run:</b>
 
-Download repository and use console command 
+Download repository and use the console command 
 
 ```
 ruby ball.rb
