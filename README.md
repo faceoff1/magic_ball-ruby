@@ -1,7 +1,7 @@
 <h1>"Magic 8 Ball"</h1>
 Magic Ball - this is a console game, where you can get the answer to your question!
 
-The program has written in Ruby
+The program is written in Ruby
 
 <a href="https://en.wikipedia.org/wiki/Magic_8-ball">Wiki page</a>
 
