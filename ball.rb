@@ -1,4 +1,4 @@
-greeting = [
+greetings = [
   "Привет, дорогой друг. Отвечаю на твой вопрос...",
   "Кто вопрошает, тот получит ответ:",
   "Здравствуй, смертный. Сегодня для тебя такой ответ:"
@@ -31,7 +31,7 @@ answers = [
 ]
 ANSWER_DELAY = 3
 
-puts greeting.sample
+puts greetings.sample
 puts
 sleep ANSWER_DELAY
 puts answers.sample
