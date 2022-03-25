@@ -10,6 +10,8 @@ Imagine your question and run the program, the answer will be in the console.
 
 <b>How to run:</b>
 
-<pre><code>ruby ball.rb</code></pre>
+Download repository and use console command 
+
+```ruby ball.rb```
 
 use 2.7+ Ruby version
